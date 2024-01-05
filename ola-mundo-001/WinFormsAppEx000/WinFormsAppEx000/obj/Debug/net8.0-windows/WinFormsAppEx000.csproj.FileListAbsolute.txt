@@ -1,0 +1,16 @@
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\bin\Debug\net8.0-windows\WinFormsAppEx000.exe
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\bin\Debug\net8.0-windows\WinFormsAppEx000.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\bin\Debug\net8.0-windows\WinFormsAppEx000.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\bin\Debug\net8.0-windows\WinFormsAppEx000.dll
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\bin\Debug\net8.0-windows\WinFormsAppEx000.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\WinFormsAppEx000.Form1.resources
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\WinFormsAppEx000.csproj.GenerateResource.cache
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\WinFormsAppEx000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\WinFormsAppEx000.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\WinFormsAppEx000.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\WinFormsAppEx000.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\WinFormsAppEx000.dll
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\refint\WinFormsAppEx000.dll
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\WinFormsAppEx000.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\WinFormsAppEx000.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\ola-mundo-001\WinFormsAppEx000\WinFormsAppEx000\obj\Debug\net8.0-windows\ref\WinFormsAppEx000.dll

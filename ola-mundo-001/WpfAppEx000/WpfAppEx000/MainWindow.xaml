@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfAppEx000.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppEx000"
+        mc:Ignorable="d"
+        Title="Primeiro Programa C#" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow">
+    <Grid x:Name="btn">
+        <Button Content="Clique em mim!" HorizontalAlignment="Center" Height="80" Margin="0,306,0,0" VerticalAlignment="Top" Width="216" FontSize="30" Click="Button_Click"/>
+        <Label x:Name="lblMsg" Content="" HorizontalAlignment="Center" Height="47" Margin="0,63,0,0" VerticalAlignment="Top" Width="698" FontSize="24" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>
