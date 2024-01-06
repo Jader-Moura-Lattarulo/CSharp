@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Entendendo-Agrupamento-De-Projetos/1.0.0": {
+        "runtime": {
+          "Entendendo-Agrupamento-De-Projetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entendendo-Agrupamento-De-Projetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
