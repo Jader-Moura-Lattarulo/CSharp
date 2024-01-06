@@ -1,0 +1,17 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\bin\Debug\net8.0-windows\Teste2.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\bin\Debug\net8.0-windows\Teste2.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\bin\Debug\net8.0-windows\Teste2.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\bin\Debug\net8.0-windows\Teste2.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\bin\Debug\net8.0-windows\Teste2.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.Form1.resources
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.csproj.GenerateResource.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\refint\Teste2.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\Teste2.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Gestão-de-Soluções\Entendendo-Agrupamento-De-Projetos\Teste2\obj\Debug\net8.0-windows\ref\Teste2.dll
