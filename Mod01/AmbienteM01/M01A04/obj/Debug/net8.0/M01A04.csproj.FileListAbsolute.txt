@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\bin\Debug\net8.0\M01A04.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\bin\Debug\net8.0\M01A04.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\bin\Debug\net8.0\M01A04.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\bin\Debug\net8.0\M01A04.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\bin\Debug\net8.0\M01A04.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\M01A04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\M01A04.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\M01A04.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\M01A04.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\M01A04.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\M01A04.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\refint\M01A04.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\M01A04.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\M01A04.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A04\obj\Debug\net8.0\ref\M01A04.dll
