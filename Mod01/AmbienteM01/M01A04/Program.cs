@@ -26,7 +26,8 @@
             Console.WriteLine("O tipo double vai de " + double.MinValue + " até " + double.MaxValue);
             Console.WriteLine("O tipo decimal vai de " + decimal.MinValue + " até " + decimal.MaxValue);
             Console.ReadKey();
-
+            // Valores Lógicos
+            Console.WriteLine("O tipo bool aceita " + bool.FalseString + " ou " + bool.TrueString);
         }
     }
 }
