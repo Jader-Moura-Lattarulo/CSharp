@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\latta\\Desktop\\Estudos\\CSharp\\Mod01\\AmbienteM01\\namespace M01A02d\\M01A02d.csproj",
-      "projectName": "M01A02d",
-      "projectPath": "C:\\Users\\latta\\Desktop\\Estudos\\CSharp\\Mod01\\AmbienteM01\\namespace M01A02d\\M01A02d.csproj",
+      "projectUniqueName": "C:\\Users\\latta\\Desktop\\Estudos\\CSharp\\Mod01\\AmbienteM01\\M01A03\\M01A03.csproj",
+      "projectName": "M01A03",
+      "projectPath": "C:\\Users\\latta\\Desktop\\Estudos\\CSharp\\Mod01\\AmbienteM01\\M01A03\\M01A03.csproj",
       "packagesPath": "C:\\Users\\latta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\latta\\Desktop\\Estudos\\CSharp\\Mod01\\AmbienteM01\\namespace M01A02d\\obj\\",
+      "outputPath": "C:\\Users\\latta\\Desktop\\Estudos\\CSharp\\Mod01\\AmbienteM01\\M01A03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\latta\\AppData\\Roaming\\NuGet\\NuGet.Config",
