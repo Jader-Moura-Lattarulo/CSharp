@@ -1,0 +1,17 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.Form1.resources
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.csproj.GenerateResource.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\bin\Debug\net8.0-windows\M01A08d.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\bin\Debug\net8.0-windows\M01A08d.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\bin\Debug\net8.0-windows\M01A08d.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\bin\Debug\net8.0-windows\M01A08d.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\bin\Debug\net8.0-windows\M01A08d.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\refint\M01A08d.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\M01A08d.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01A08d\obj\Debug\net8.0-windows\ref\M01A08d.dll
