@@ -7,9 +7,12 @@ namespace M01A11b
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private async void btnOk_Click(object sender, EventArgs e)
         {
-
+            lblMsg.Text = "Olá,";
+            lblMsg.Visible = true;
+            await Task.Delay(2000); //Ao colocar await o VS propõe a criação de um método assíncrono... Escolher o async void. 
+            lblMsg.Text += " tudo bem?";
         }
     }
 }

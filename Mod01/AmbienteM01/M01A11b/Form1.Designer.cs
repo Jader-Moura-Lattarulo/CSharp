@@ -28,19 +28,46 @@
         /// </summary>
         private void InitializeComponent()
         {
+            lblMsg = new Label();
+            btnOk = new Button();
             SuspendLayout();
+            // 
+            // lblMsg
+            // 
+            lblMsg.AutoSize = true;
+            lblMsg.Location = new Point(44, 43);
+            lblMsg.Name = "lblMsg";
+            lblMsg.Size = new Size(100, 25);
+            lblMsg.TabIndex = 0;
+            lblMsg.Text = "Mensagem";
+            lblMsg.Visible = false;
+            // 
+            // btnOk
+            // 
+            btnOk.Location = new Point(154, 168);
+            btnOk.Name = "btnOk";
+            btnOk.Size = new Size(231, 66);
+            btnOk.TabIndex = 1;
+            btnOk.Text = "Clique em mim";
+            btnOk.UseVisualStyleBackColor = true;
+            btnOk.Click += btnOk_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(572, 304);
+            Controls.Add(btnOk);
+            Controls.Add(lblMsg);
             Name = "Form1";
             Text = "Form1";
-            Load += Form1_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label lblMsg;
+        private Button btnOk;
     }
 }
