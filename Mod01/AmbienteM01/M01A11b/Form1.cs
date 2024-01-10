@@ -14,5 +14,10 @@ namespace M01A11b
             await Task.Delay(2000); //Ao colocar await o VS propõe a criação de um método assíncrono... Escolher o async void. 
             lblMsg.Text += " tudo bem?";
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
