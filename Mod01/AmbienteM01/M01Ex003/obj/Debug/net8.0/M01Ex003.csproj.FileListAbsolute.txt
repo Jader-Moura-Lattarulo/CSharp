@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\M01Ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\M01Ex003.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\M01Ex003.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\M01Ex003.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\M01Ex003.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\bin\Debug\net8.0\M01Ex003.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\bin\Debug\net8.0\M01Ex003.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\bin\Debug\net8.0\M01Ex003.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\bin\Debug\net8.0\M01Ex003.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\bin\Debug\net8.0\M01Ex003.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\M01Ex003.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\refint\M01Ex003.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\M01Ex003.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\M01Ex003.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex003\obj\Debug\net8.0\ref\M01Ex003.dll
