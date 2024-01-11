@@ -1,0 +1,7 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex005\bin\Debug\M01Ex005.exe.config
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex005\bin\Debug\M01Ex005.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex005\bin\Debug\M01Ex005.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex005\obj\Debug\M01Ex005.csproj.AssemblyReference.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex005\obj\Debug\M01Ex005.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex005\obj\Debug\M01Ex005.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Mod01\AmbienteM01\M01Ex005\obj\Debug\M01Ex005.pdb

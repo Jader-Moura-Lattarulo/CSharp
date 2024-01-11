@@ -1,0 +1,27 @@
+﻿<Window x:Class="M01Ex006.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:M01Ex006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="223" Width="517">
+    <Grid RenderTransformOrigin="0.5,0.5">
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="0.364"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Label x:Name="Question" Content="Em que ano você nasceu?" HorizontalAlignment="Left" Margin="28,35,0,0" VerticalAlignment="Top" Height="38" Width="240" FontSize="20"/>
+        <TextBox x:Name="txtAno" HorizontalAlignment="Left" Margin="280,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="20" Height="38" TextAlignment="Center" RenderTransformOrigin="0.514,0.457"/>
+        <Button x:Name="btnOk" Content="Ok" HorizontalAlignment="Left" Height="41" Margin="424,35,0,0" VerticalAlignment="Top" Width="63" FontSize="20" Click="btn01_Click"/>
+        <StackPanel x:Name="panResult" HorizontalAlignment="Left" Height="95" Margin="36,92,0,0" VerticalAlignment="Top" Width="408" Visibility="Hidden">
+            <Label x:Name="ans01" Content="ans01" Height="38" Width="441" FontSize="20"/>
+            <Label x:Name="ans02" Content="ans02" Height="38" Width="411" FontSize="20"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
