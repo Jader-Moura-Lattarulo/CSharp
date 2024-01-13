@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-int firstNumber; int secondNumber;
+int firstNumber; int secoundNumber;
 
 Console.WriteLine("Hello!");
 Console.Write("Please input the first number: ");
@@ -9,7 +9,7 @@ int.TryParse(firstNumerAsText, out firstNumber);
 
 Console.Write("Please input the secound number: ");
 string secoundNumerAsText = Console.ReadLine();
-int.TryParse(secoundNumerAsText, out secondNumber);
+int.TryParse(secoundNumerAsText, out secoundNumber);
 
 Console.WriteLine("What do want to do?");
 Console.WriteLine("[A]dd numbers");
@@ -20,27 +20,27 @@ string userChoice = Console.ReadLine();
 
 if (EqualCaseInsensitive(userChoice,"A"))
 {
-    int sum = firstNumber + secondNumber;
-    PrintFinalEquation(firstNumber, secondNumber, sum, "+");
+    int sum = firstNumber + secoundNumber;
+    PrintFinalEquation(firstNumber, secoundNumber, sum, "+");
 }
 else if (EqualCaseInsensitive(userChoice, "S"))
 {
-    int  difference = firstNumber - secondNumber;
-    PrintFinalEquation(firstNumber, difference, difference, "-");
+    int  difference = firstNumber - secoundNumber;
+    PrintFinalEquation(firstNumber, secoundNumber, difference, "-");
 }
 else if (EqualCaseInsensitive(userChoice, "M"))
 {
-    int multiplied = firstNumber * secondNumber;
-    PrintFinalEquation(firstNumber, secondNumber,multiplied, "*");
+    int multiplied = firstNumber * secoundNumber;
+    PrintFinalEquation(firstNumber, secoundNumber,multiplied, "*");
 }
 else
 {
     Console.WriteLine("Invalid choice!");
 }
 
-void PrintFinalEquation(int firstNumber, int secondNumber, int result, string @operator)
+void PrintFinalEquation(int firstNumber, int secoundNumber, int result, string @operator)
 {
-    Console.WriteLine($"{firstNumber } {@operator} { secondNumber} = {result}");
+    Console.WriteLine($"{firstNumber } {@operator} { secoundNumber} = {result}");
 }
 bool EqualCaseInsensitive (string right, string left)
 {

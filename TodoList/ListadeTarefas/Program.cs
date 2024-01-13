@@ -7,22 +7,45 @@ Console.WriteLine("[S]air");
 
 var escolhadoUsuário = Console.ReadLine();
 
-if (escolhadoUsuário == "V")
+switch (escolhadoUsuário)
 {
-    PrintOpçãoSelecionada("Ver todas tarefas");
+    case "v":
+    case "V":
+        PrintOpçãoSelecionada("Ver todas tarefas");
+        break;
+    case "a":
+    case "A":
+        PrintOpçãoSelecionada("Add uma tarefa");
+        break;
+    case "r":
+    case "R":
+        PrintOpçãoSelecionada("Remover uma terefa");
+        break;
+    case "s":
+    case "S":
+        PrintOpçãoSelecionada("Sair");
+        break;
+    default:
+        Console.WriteLine("Opção invalida!");
+        break;
 }
-else if (escolhadoUsuário == "A")
-{
-    PrintOpçãoSelecionada("Add uma tarefa");
-}
-else if (escolhadoUsuário == "R")
-{
-    PrintOpçãoSelecionada("Remover uma tarefa");
-}
-else if (escolhadoUsuário == "S")
-{
-    PrintOpçãoSelecionada("Sair");
-}
+
+//if (escolhadoUsuário == "V")
+//{
+//    PrintOpçãoSelecionada("Ver todas tarefas");
+//}
+//else if (escolhadoUsuário == "A")
+//{
+//    PrintOpçãoSelecionada("Add uma tarefa");
+//}
+//else if (escolhadoUsuário == "R")
+//{
+//    PrintOpçãoSelecionada("Remover uma tarefa");
+//}
+//else if (escolhadoUsuário == "S")
+//{
+//    PrintOpçãoSelecionada("Sair");
+//}
 
 void PrintOpçãoSelecionada(string opçãoSelecionada)
 {

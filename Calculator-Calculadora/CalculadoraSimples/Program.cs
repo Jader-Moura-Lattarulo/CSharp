@@ -27,7 +27,7 @@ else if (CompararMaiúsculasMinusculas(respostaUsuário, "S"))
     int subtração = primeiroNúmero - segundoNúmero;
     ImprimirEquaçãoFinal(primeiroNúmero, segundoNúmero, subtração, "-");
 }
-else if (CompararMaiúsculasMinusculas(respostaUsuário, "M15"))
+else if (CompararMaiúsculasMinusculas(respostaUsuário, "M"))
 {
     int multiplicação = primeiroNúmero * segundoNúmero;
     ImprimirEquaçãoFinal(primeiroNúmero, segundoNúmero, multiplicação, "*");
