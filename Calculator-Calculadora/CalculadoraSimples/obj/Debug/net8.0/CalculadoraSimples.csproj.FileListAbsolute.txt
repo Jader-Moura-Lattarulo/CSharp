@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\refint\CalculadoraSimples.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Calculator-Calculadora\CalculadoraSimples\obj\Debug\net8.0\ref\CalculadoraSimples.dll
