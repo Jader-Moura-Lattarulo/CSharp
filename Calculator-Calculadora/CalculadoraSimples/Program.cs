@@ -3,32 +3,49 @@
 int primeiroNúmero; int segundoNúmero;
 
 Console.Write("Por favor insira o primeiro número: ");
-string entradaUsuário = Console.ReadLine();
-int.TryParse(entradaUsuário, out primeiroNúmero);
+string primeiroNúmeroTexto = Console.ReadLine();
+int.TryParse(primeiroNúmeroTexto, out primeiroNúmero);
 
 Console.Write("Por favor insira o segundo número: ");
-string entradaUsuário2 = Console.ReadLine();
-int.TryParse(entradaUsuário2, out segundoNúmero);
+string segundoNúmeroTexto = Console.ReadLine();
+int.TryParse(segundoNúmeroTexto, out segundoNúmero);
 
-Console.WriteLine("O que você quer fazer?\n[A]dicionar os números\n[S]ubtrair os números\n[M]ultiplicar os números");
+Console.WriteLine("O que você quer fazer?");
+Console.WriteLine("[A]dicionar os números");
+Console.WriteLine("[S]ubtrair os números");
+Console.WriteLine("[M]ultiplicar os números");
+
 string respostaUsuário = Console.ReadLine();
 
-if (respostaUsuário == "A" || respostaUsuário == "a")
+if (CompararMaiúsculasMinusculas(respostaUsuário,"A"))
 {
-    Console.WriteLine($"{primeiroNúmero} + {segundoNúmero} = {primeiroNúmero + segundoNúmero}");
+    int soma = primeiroNúmero + segundoNúmero;
+    ImprimirEquaçãoFinal(primeiroNúmero, segundoNúmero, soma, "+");
 }
-else if (respostaUsuário == "S" || respostaUsuário == "s")
+else if (CompararMaiúsculasMinusculas(respostaUsuário, "S"))
 {
-    Console.WriteLine($"{primeiroNúmero} - {segundoNúmero} = {primeiroNúmero - segundoNúmero}");
+    int subtração = primeiroNúmero - segundoNúmero;
+    ImprimirEquaçãoFinal(primeiroNúmero, segundoNúmero, subtração, "-");
 }
-else if (respostaUsuário == "M" || respostaUsuário == "m")
+else if (CompararMaiúsculasMinusculas(respostaUsuário, "M15"))
 {
-    Console.WriteLine($"{primeiroNúmero} * {segundoNúmero} = {primeiroNúmero * segundoNúmero}");
+    int multiplicação = primeiroNúmero * segundoNúmero;
+    ImprimirEquaçãoFinal(primeiroNúmero, segundoNúmero, multiplicação, "*");
 }
 else
 {
     Console.WriteLine("Escolha Inválida!");
 }
 
+void ImprimirEquaçãoFinal(int primeiroNúmero, int segundoNúmero, int resultado, string operador)
+{
+    Console.WriteLine($"{primeiroNúmero } {operador} { segundoNúmero} = {resultado}");
+}
+bool CompararMaiúsculasMinusculas (string direita, string esquerda)
+{
+    return direita.ToUpper() == esquerda.ToUpper();
+}
+
 Console.WriteLine("Pressione qualquer tecla para fechar.");
+
 Console.ReadKey();
