@@ -5,24 +5,47 @@ Console.WriteLine("[A]dd a TODO");
 Console.WriteLine("[R]emove a TODO");
 Console.WriteLine("[E]xit");
 
-string userChoice = Console.ReadLine(); 
+string userChoice = Console.ReadLine();
 
-if(userChoice == "S")
+switch (userChoice)
 {
-    PrintSelectedOption("See all TODOs");
+    case "s":
+    case "S":
+        PrintSelectedOption("See all TODOs");
+        break;
+    case "a":
+    case "A":
+        PrintSelectedOption("Add a TODO");
+        break;
+    case "r":
+    case "R":
+        PrintSelectedOption("Remove a TODO");
+        break;
+    case "e":
+    case "E":
+        PrintSelectedOption("Exit");
+        break;
+    default:
+        Console.WriteLine("Invalid choice");
+        break;
 }
-else if (userChoice == "A")
-{
-    PrintSelectedOption("Add a TODO");
-}
-else if (userChoice == "R")
-{
-    PrintSelectedOption("Remove a TODO");
-}
-else if (userChoice == "E")
-{
-    PrintSelectedOption("Exit");
-}
+
+//if(userChoice == "S")
+//{
+//    PrintSelectedOption("See all TODOs");
+//}
+//else if (userChoice == "A")
+//{
+//    PrintSelectedOption("Add a TODO");
+//}
+//else if (userChoice == "R")
+//{
+//    PrintSelectedOption("Remove a TODO");
+//}
+//else if (userChoice == "E")
+//{
+//    PrintSelectedOption("Exit");
+//}
 
 Console.ReadKey();
 

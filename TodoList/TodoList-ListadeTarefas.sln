@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList", "TodoList\TodoList.csproj", "{95F19987-B086-4D50-AEB6-FC3EE8CC8415}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoList", "TodoList\TodoList.csproj", "{95F19987-B086-4D50-AEB6-FC3EE8CC8415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListadeTarefas", "ListadeTarefas\ListadeTarefas.csproj", "{212EF491-268E-4BCD-8E05-72D0BCB6A5EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{95F19987-B086-4D50-AEB6-FC3EE8CC8415}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95F19987-B086-4D50-AEB6-FC3EE8CC8415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95F19987-B086-4D50-AEB6-FC3EE8CC8415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212EF491-268E-4BCD-8E05-72D0BCB6A5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212EF491-268E-4BCD-8E05-72D0BCB6A5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212EF491-268E-4BCD-8E05-72D0BCB6A5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212EF491-268E-4BCD-8E05-72D0BCB6A5EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
