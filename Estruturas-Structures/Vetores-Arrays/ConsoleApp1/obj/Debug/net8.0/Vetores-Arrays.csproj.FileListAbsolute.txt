@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\bin\Debug\net8.0\Vetores-Arrays.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\bin\Debug\net8.0\Vetores-Arrays.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\bin\Debug\net8.0\Vetores-Arrays.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\bin\Debug\net8.0\Vetores-Arrays.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\bin\Debug\net8.0\Vetores-Arrays.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\Vetores-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\Vetores-Arrays.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\Vetores-Arrays.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\Vetores-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\Vetores-Arrays.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\Vetores-Arrays.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\refint\Vetores-Arrays.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\Vetores-Arrays.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\Vetores-Arrays.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\ConsoleApp1\obj\Debug\net8.0\ref\Vetores-Arrays.dll
