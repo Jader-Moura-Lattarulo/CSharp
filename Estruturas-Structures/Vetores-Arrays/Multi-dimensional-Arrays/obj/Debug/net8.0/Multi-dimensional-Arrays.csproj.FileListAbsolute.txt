@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\bin\Debug\net8.0\Multi-dimensional-Arrays.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\bin\Debug\net8.0\Multi-dimensional-Arrays.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\bin\Debug\net8.0\Multi-dimensional-Arrays.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\bin\Debug\net8.0\Multi-dimensional-Arrays.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\bin\Debug\net8.0\Multi-dimensional-Arrays.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\Multi-dimensional-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\Multi-dimensional-Arrays.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\Multi-dimensional-Arrays.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\Multi-dimensional-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\Multi-dimensional-Arrays.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\Multi-dimensional-Arrays.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\refint\Multi-dimensional-Arrays.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\Multi-dimensional-Arrays.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\Multi-dimensional-Arrays.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Multi-dimensional-Arrays\obj\Debug\net8.0\ref\Multi-dimensional-Arrays.dll

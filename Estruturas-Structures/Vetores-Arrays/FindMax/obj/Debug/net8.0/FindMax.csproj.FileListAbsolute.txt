@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\bin\Debug\net8.0\FindMax.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\bin\Debug\net8.0\FindMax.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\bin\Debug\net8.0\FindMax.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\bin\Debug\net8.0\FindMax.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\bin\Debug\net8.0\FindMax.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\FindMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\FindMax.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\FindMax.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\FindMax.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\FindMax.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\FindMax.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\refint\FindMax.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\FindMax.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\FindMax.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\FindMax\obj\Debug\net8.0\ref\FindMax.dll

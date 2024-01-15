@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\bin\Debug\net8.0\Foreach-loop.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\bin\Debug\net8.0\Foreach-loop.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\bin\Debug\net8.0\Foreach-loop.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\bin\Debug\net8.0\Foreach-loop.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\bin\Debug\net8.0\Foreach-loop.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\Foreach-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\Foreach-loop.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\Foreach-loop.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\Foreach-loop.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\Foreach-loop.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\Foreach-loop.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\refint\Foreach-loop.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\Foreach-loop.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\Foreach-loop.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Foreach-loop\obj\Debug\net8.0\ref\Foreach-loop.dll
