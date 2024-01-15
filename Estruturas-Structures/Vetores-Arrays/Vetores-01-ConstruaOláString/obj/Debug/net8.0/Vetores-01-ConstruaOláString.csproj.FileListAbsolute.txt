@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\bin\Debug\net8.0\Vetores-01-ConstruaOláString.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\bin\Debug\net8.0\Vetores-01-ConstruaOláString.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\bin\Debug\net8.0\Vetores-01-ConstruaOláString.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\bin\Debug\net8.0\Vetores-01-ConstruaOláString.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\bin\Debug\net8.0\Vetores-01-ConstruaOláString.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\Vetores-01-ConstruaOláString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\Vetores-01-ConstruaOláString.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\Vetores-01-ConstruaOláString.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\Vetores-01-ConstruaOláString.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\Vetores-01-ConstruaOláString.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\Vetores-01-ConstruaOláString.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\refint\Vetores-01-ConstruaOláString.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\Vetores-01-ConstruaOláString.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\Vetores-01-ConstruaOláString.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Vetores-01-ConstruaOláString\obj\Debug\net8.0\ref\Vetores-01-ConstruaOláString.dll

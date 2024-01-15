@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Vetores")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Vetores-01-ConstruaOláString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f11da80d795f244d39183ceb3881a7d4b2ca4fe")]
-[assembly: System.Reflection.AssemblyProductAttribute("Vetores")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Vetores")]
+[assembly: System.Reflection.AssemblyProductAttribute("Vetores-01-ConstruaOláString")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Vetores-01-ConstruaOláString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

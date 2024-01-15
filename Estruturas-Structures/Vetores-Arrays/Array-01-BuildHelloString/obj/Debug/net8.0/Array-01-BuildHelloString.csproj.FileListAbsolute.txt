@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\Array-01-BuildHelloString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\Array-01-BuildHelloString.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\Array-01-BuildHelloString.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\Array-01-BuildHelloString.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\Array-01-BuildHelloString.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\bin\Debug\net8.0\Array-01-BuildHelloString.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\bin\Debug\net8.0\Array-01-BuildHelloString.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\bin\Debug\net8.0\Array-01-BuildHelloString.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\bin\Debug\net8.0\Array-01-BuildHelloString.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\bin\Debug\net8.0\Array-01-BuildHelloString.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\Array-01-BuildHelloString.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\refint\Array-01-BuildHelloString.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\Array-01-BuildHelloString.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\Array-01-BuildHelloString.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Array-01-BuildHelloString\obj\Debug\net8.0\ref\Array-01-BuildHelloString.dll
