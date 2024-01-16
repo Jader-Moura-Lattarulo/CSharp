@@ -11,13 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array-01-BuildHelloString",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores-01-ConstruaOláString", "Vetores-01-ConstruaOláString\Vetores-01-ConstruaOláString.csproj", "{53FCEABD-7885-4A3D-8059-DD9BAF0B8D25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-dimensional-Arrays", "Multi-dimensional-Arrays\Multi-dimensional-Arrays.csproj", "{29DC19F0-B2D9-4458-863D-01D23B20C5E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multi-dimensional-Arrays", "Multi-dimensional-Arrays\Multi-dimensional-Arrays.csproj", "{29DC19F0-B2D9-4458-863D-01D23B20C5E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMax", "FindMax\FindMax.csproj", "{783DEF18-F3B4-46A0-BF5C-CD55BCD0B3BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMax", "FindMax\FindMax.csproj", "{783DEF18-F3B4-46A0-BF5C-CD55BCD0B3BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach-loop", "Foreach-loop\Foreach-loop.csproj", "{BC38BC9E-5822-429D-8EA6-6D8D4C0BF0D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foreach-loop", "Foreach-loop\Foreach-loop.csproj", "{BC38BC9E-5822-429D-8EA6-6D8D4C0BF0D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{341BDB49-6C88-429C-8349-3F8A5D007E2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists", "Lists\Lists.csproj", "{341BDB49-6C88-429C-8349-3F8A5D007E2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out-keyword", "Out-keyword\Out-keyword.csproj", "{3A6EBD0A-5947-43CA-83C6-0829F9A56CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{341BDB49-6C88-429C-8349-3F8A5D007E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{341BDB49-6C88-429C-8349-3F8A5D007E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{341BDB49-6C88-429C-8349-3F8A5D007E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6EBD0A-5947-43CA-83C6-0829F9A56CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6EBD0A-5947-43CA-83C6-0829F9A56CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6EBD0A-5947-43CA-83C6-0829F9A56CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6EBD0A-5947-43CA-83C6-0829F9A56CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

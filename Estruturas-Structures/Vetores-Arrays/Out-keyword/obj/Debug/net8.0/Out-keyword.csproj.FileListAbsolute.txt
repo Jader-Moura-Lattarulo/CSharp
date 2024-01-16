@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\bin\Debug\net8.0\Out-keyword.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\bin\Debug\net8.0\Out-keyword.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\bin\Debug\net8.0\Out-keyword.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\bin\Debug\net8.0\Out-keyword.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\bin\Debug\net8.0\Out-keyword.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\Out-keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\Out-keyword.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\Out-keyword.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\Out-keyword.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\Out-keyword.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\Out-keyword.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\refint\Out-keyword.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\Out-keyword.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\Out-keyword.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Out-keyword\obj\Debug\net8.0\ref\Out-keyword.dll
