@@ -1,0 +1,5 @@
+C:\Users\latta\Desktop\Estudos\CSharp\ContadeBanco\ContadeBanco\obj\Debug\net8.0\ContadeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\ContadeBanco\ContadeBanco\obj\Debug\net8.0\ContadeBanco.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\ContadeBanco\ContadeBanco\obj\Debug\net8.0\ContadeBanco.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\ContadeBanco\ContadeBanco\obj\Debug\net8.0\ContadeBanco.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\ContadeBanco\ContadeBanco\obj\Debug\net8.0\ContadeBanco.sourcelink.json
