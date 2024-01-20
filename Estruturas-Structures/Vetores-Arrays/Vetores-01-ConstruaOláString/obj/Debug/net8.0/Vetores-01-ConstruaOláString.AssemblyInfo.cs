@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vetores-01-ConstruaOláString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c56e9426449a555b00fc4fa2ef904aa9c60b17ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b98706028e1d41940d677e444e2a70b3aee8c030")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vetores-01-ConstruaOláString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vetores-01-ConstruaOláString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

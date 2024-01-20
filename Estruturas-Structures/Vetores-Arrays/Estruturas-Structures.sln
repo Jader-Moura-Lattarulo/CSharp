@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foreach-loop", "Foreach-loo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists", "Lists\Lists.csproj", "{341BDB49-6C88-429C-8349-3F8A5D007E2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out-keyword", "Out-keyword\Out-keyword.csproj", "{3A6EBD0A-5947-43CA-83C6-0829F9A56CA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Out-keyword", "Out-keyword\Out-keyword.csproj", "{3A6EBD0A-5947-43CA-83C6-0829F9A56CA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryParse", "TryParse\TryParse.csproj", "{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaDay", "PizzaDay\PizzaDay.csproj", "{3F2E2206-449A-4588-AA16-375716CF6F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{7D1BF16A-7635-4703-89E0-8CFB45168541}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA0181FB-F8B2-461A-9CCB-FE74D6E5A928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2E2206-449A-4588-AA16-375716CF6F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2E2206-449A-4588-AA16-375716CF6F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2E2206-449A-4588-AA16-375716CF6F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2E2206-449A-4588-AA16-375716CF6F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1BF16A-7635-4703-89E0-8CFB45168541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1BF16A-7635-4703-89E0-8CFB45168541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1BF16A-7635-4703-89E0-8CFB45168541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1BF16A-7635-4703-89E0-8CFB45168541}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

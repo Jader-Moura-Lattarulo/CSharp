@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\bin\Debug\net8.0\PizzaDay.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\bin\Debug\net8.0\PizzaDay.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\bin\Debug\net8.0\PizzaDay.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\bin\Debug\net8.0\PizzaDay.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\bin\Debug\net8.0\PizzaDay.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\PizzaDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\PizzaDay.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\PizzaDay.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\PizzaDay.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\PizzaDay.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\PizzaDay.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\refint\PizzaDay.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\PizzaDay.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\PizzaDay.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\PizzaDay\obj\Debug\net8.0\ref\PizzaDay.dll
