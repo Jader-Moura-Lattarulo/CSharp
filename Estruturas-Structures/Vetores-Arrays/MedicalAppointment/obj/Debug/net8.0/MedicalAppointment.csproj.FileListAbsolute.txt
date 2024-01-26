@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\bin\Debug\net8.0\MedicalAppointment.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\bin\Debug\net8.0\MedicalAppointment.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\bin\Debug\net8.0\MedicalAppointment.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\bin\Debug\net8.0\MedicalAppointment.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\bin\Debug\net8.0\MedicalAppointment.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\MedicalAppointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\MedicalAppointment.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\MedicalAppointment.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\MedicalAppointment.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\MedicalAppointment.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\MedicalAppointment.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\refint\MedicalAppointment.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\MedicalAppointment.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\MedicalAppointment.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\MedicalAppointment\obj\Debug\net8.0\ref\MedicalAppointment.dll

@@ -33,10 +33,8 @@ public class Triangulo
         _altura = altura;
     }
 
-    public double CalcularArea()
-    {
-        return ((double)_base * _altura) / 2;
-    }
+    public double CalcularArea() => ((double)_base * _altura) / 2;
+    
 
     public string Resposta()
     {
