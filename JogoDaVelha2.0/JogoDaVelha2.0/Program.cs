@@ -7,16 +7,30 @@ class Program
 
     static void Main()
     {
-        Console.WriteLine("Bem-vindo ao Jogo da Velha 2.0!");
-
-        Console.WriteLine("Escolha o modo de jogo:");
-        Console.WriteLine("1 - Dois Jogadores");
-        Console.WriteLine("2 - Jogar contra o Computador");
-        int gameMode = int.Parse(Console.ReadLine());
-
         do
         {
-            Console.Clear();
+            Console.WriteLine("Bem-vindo ao Jogo da Velha 2.0!");
+
+            Console.WriteLine("Escolha o modo de jogo:");
+            Console.WriteLine("1 - Dois Jogadores");
+            Console.WriteLine("2 - Jogar contra o Computador");
+            int gameMode = int.Parse(Console.ReadLine());
+
+            PlayGame(gameMode);
+
+            Console.WriteLine("Deseja jogar novamente? (s/n)");
+
+        } while (GetYesOrNoResponse());
+
+        Console.WriteLine("Obrigado por jogar. Até a próxima!");
+    }
+
+    static void PlayGame(int gameMode)
+    {
+        do
+        {
+            Console.Clear();  // Movido para cá
+
             Console.WriteLine("Jogo da Velha - Player {0}", currentPlayer);
             Console.WriteLine("Player 1 (X) - Player 2 (O)\n");
 
@@ -146,5 +160,16 @@ class Program
 
         return randomMove;
     }
-}
 
+    static bool GetYesOrNoResponse()
+    {
+        string response;
+        do
+        {
+            Console.WriteLine("Responda com \"s\" para  sim ou \"n\" para não: ");
+            response = Console.ReadLine().ToLower();
+        } while (response != "s" && response != "n");
+
+        return response == "s";
+    }
+}
