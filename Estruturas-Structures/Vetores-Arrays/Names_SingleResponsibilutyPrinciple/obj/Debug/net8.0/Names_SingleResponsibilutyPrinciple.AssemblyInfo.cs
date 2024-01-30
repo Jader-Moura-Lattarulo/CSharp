@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Names_SingleResponsibilutyPrinciple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d682a02f846a88b5ff443289dc28273cb931fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+261af4e887752ea863b422e37e368267728d0298")]
 [assembly: System.Reflection.AssemblyProductAttribute("Names_SingleResponsibilutyPrinciple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Names_SingleResponsibilutyPrinciple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
