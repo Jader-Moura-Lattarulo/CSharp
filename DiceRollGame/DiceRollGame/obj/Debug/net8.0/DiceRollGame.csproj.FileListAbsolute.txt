@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
