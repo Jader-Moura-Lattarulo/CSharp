@@ -1,0 +1,15 @@
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\bin\Debug\net8.0\Names_SingleResponsibilutyPrinciple.exe
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\bin\Debug\net8.0\Names_SingleResponsibilutyPrinciple.deps.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\bin\Debug\net8.0\Names_SingleResponsibilutyPrinciple.runtimeconfig.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\bin\Debug\net8.0\Names_SingleResponsibilutyPrinciple.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\bin\Debug\net8.0\Names_SingleResponsibilutyPrinciple.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\Names_SingleResponsibilutyPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\Names_SingleResponsibilutyPrinciple.AssemblyInfoInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\Names_SingleResponsibilutyPrinciple.AssemblyInfo.cs
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\Names_SingleResponsibilutyPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\Names_SingleResponsibilutyPrinciple.sourcelink.json
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\Names_SingleResponsibilutyPrinciple.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\refint\Names_SingleResponsibilutyPrinciple.dll
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\Names_SingleResponsibilutyPrinciple.pdb
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\Names_SingleResponsibilutyPrinciple.genruntimeconfig.cache
+C:\Users\latta\Desktop\Estudos\CSharp\Estruturas-Structures\Vetores-Arrays\Names_SingleResponsibilutyPrinciple\obj\Debug\net8.0\ref\Names_SingleResponsibilutyPrinciple.dll
